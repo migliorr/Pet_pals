@@ -1,0 +1,7 @@
+add here all the packages you need for your application
+Flask                              1.1.1
+Flask-SQLAlchemy                   2.4.3
+certifi                            2019.9.11
+pandas                             0.25.1
+Flask-PyMongo                      2.3.0
+
